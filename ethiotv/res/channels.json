@@ -1,0 +1,888 @@
+{
+    "channel_count": 1,
+    "channels": [
+      {
+        "channel_name": "EBS",
+        "channel_description" : "Ethiopian Broadcasting Service is an Ethiopian free to air television network. Launched in 2008, the network is based in Ethiopia with correspondents both in United States at its headquarters in Silver Spring, Maryland, U.S. EBS TV broadcasts programs in mostly Amharic.",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ebs.png",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1.m3u8" 
+          },
+          {
+            "video_quality": 144,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_144p/index.m3u8" 
+          },
+          {
+            "video_quality": 240,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_240p/index.m3u8" 
+          },
+          {
+           "video_quality": 360,
+           "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_360p/index.m3u8" 
+          },
+          {
+            "video_quality": 480,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_480p/index.m3u8" 
+           },
+           {
+            "video_quality": 720,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_720p/index.m3u8" 
+           },
+           {
+            "video_quality": 1080,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_src/index.m3u8" 
+           }
+           
+        ]
+      },
+      {
+        "channel_name": "ETV News",
+        "channel_description" : "EBC (Ethiopian Broadcasting Corporation) is a 24-hour working public media. Ethiopian Broadcasting Corporation is a national media that disseminates its news and programs worldwide via Television, Radio, and the Internet.",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/etv_zena.png",
+        "channel_stream": [
+          
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etvn_1.m3u8" 
+          },
+            {
+              "video_quality": 144,
+              "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etvn_1_144p/index.m3u8" 
+            },
+            {
+              "video_quality": 240,
+              "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etvn_1_240p/index.m3u8" 
+            },
+            {
+              "video_quality": 360,
+              "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etvn_1_360p/index.m3u8" 
+            },
+            {
+              "video_quality": 480,
+              "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etvn_1_480p/index.m3u8" 
+            },
+            {
+              "video_quality": 720,
+              "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etvn_1_720p/index.m3u8" 
+            },
+            {
+              "video_quality": 1080,
+              "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ebs_1_src/index.m3u8" 
+            }
+          ]
+      },
+      {
+        "channel_name": "ETV Meznagna",
+        "channel_description" : "ETV Meznagna",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/etv_meznagna.png",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etv-ent_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etv-ent_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etv-ent_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etv-ent_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etv-ent_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etv-ent_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etv-ent_1_src/index.m3u8" 
+               }
+               
+            ]
+      },
+      {
+        "channel_name": "ETV Languages",
+        "channel_description" : "ETV Languages",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/etv_languages.jpg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv_lang_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv_lang_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv_lang_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv_lang_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv_lang_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv_lang_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/etv_lang_1_src/index.m3u8" 
+               }
+               
+            ]
+      },
+      {
+        "channel_name": "Amhara TV",
+        "channel_description" : "AMECO is a news, documentary, and entertainment media that strives for the betterment of the life of the people since 1987 E.C AMECO also strives for better togetherness and freedom of the people.",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/amhara.jpg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/AsyZVK5qWWBn.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/AsyZVK5qWWBn_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/AsyZVK5qWWBn_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/AsyZVK5qWWBn_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/AsyZVK5qWWBn_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/AsyZVK5qWWBn_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/AsyZVK5qWWBn_src/index.m3u8" 
+               }
+               
+            ]
+      },
+      {
+        "channel_name": "NBC Ethiopia",
+        "channel_description" : "NBC Ethiopia is a television station whereby preparing to broadcast in four of our local languages (Amharic, Afan Oromo, Tigrinya) and Somali); while organized under the ownership of the National Media Corporation.",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/nbc.png",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/nbc_eth-1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/nbc_eth-1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/nbc_eth-1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/nbc_eth-1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/nbc_eth-1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/nbc_eth-1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/nbc_eth-1_src/index.m3u8" 
+               }
+               
+            ]
+      },
+      {
+        "channel_name": "Harari Mass Media",
+        "channel_description" : "Harari mass media agency is a public media operating in Ethiopia Harari mass media agency is a public media that disseminates its news, programs, and articles in eastern Ethiopia via Harar FM 101.4 radio, Harari television, and Harar newspaper",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/harari.png",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/harai-tv_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/harai-tv_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/harai-tv_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/harai-tv_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/harai-tv_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/harai-tv_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/harai-tv_1_src/index.m3u8" 
+               }
+               
+            ]
+      },
+      {
+        "channel_name": "Sidama Media Network-SMN",
+        "channel_description" : "Sidama Media Network",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/sidaama.jpeg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/smn-tv_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/smn-tv_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/smn-tv_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/smn-tv_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/smn-tv_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/smn-tv_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/smn-tv_1_src/index.m3u8" 
+               }
+               
+            ]
+      },
+      {
+        "channel_name": "ESAT",
+        "channel_description" : "ESAT",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/esat.jpg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/esat_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/esat_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/esat_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/esat_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/esat_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/esat_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/esat_1_src/index.m3u8" 
+               }         
+            ]
+      },
+      {
+        "channel_name": "የኢትዮጵያ ልጆች",
+        "channel_description" : "የኢትዮጵያ ልጆች ከ15 ዓመታት በላይ ለልጆች አወንታዊ እድገት የሚበጁ ጥበባዊ ስራዎችን በማቅረብ ይታወቃል። የኢትዮጵያ ልጆች ተወዳጅና ተከታታይ አልበሞችንና የጉዞ ትምህርት ቤት ፕሮግራሞች ለበርካታ ዓመታት አዘጋጅቷል። የኢትዮጵያ ልጆች ፕሮጀክት አካል የሆነው የኢትዮጵያ ልጆች ሚዲያም የ24 ሠዓት የልጆች ቴሌቪዥን ስርጭት አለው። ኢትዮጵያ የልጆቻችን ናት!",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/ethio_lijoch.jpeg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ethio-lijoch_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ethio-lijoch_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ethio-lijoch_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ethio-lijoch_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ethio-lijoch_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ethio-lijoch_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/ethio-lijoch_1_src/index.m3u8" 
+               }         
+            ]
+      },
+      {
+        "channel_name": "Eritrea TV",
+        "channel_description" : "Eritrea TV",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/eri.jpg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/eri_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/eri_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/eri_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/eri_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/eri_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/eri_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/eri_1_src/index.m3u8" 
+               }         
+            ]
+      },
+      {
+        "channel_name": "Addis TV",
+        "channel_description" : "Addis TV is a City Channel based in Addis Ababa, Ethiopia, which broadcasts News and Programs 24/7.",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/addis.png",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/addis_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/addis_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/addis_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/addis_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/addis_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/addis_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/addis_1_src/index.m3u8" 
+               }         
+            ]
+      },
+      {
+        "channel_name": "OBN",
+        "channel_description" : "Oromia Broadcasting Network",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/obn.jpg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/obn_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/obn_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/obn_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/obn_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/obn_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/obn_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/obn_1_src/index.m3u8" 
+               }         
+            ]
+      },
+      {
+        "channel_name": "Fana TV",
+        "channel_description" : "This is the official Fana Broadcasting Corporate (FBC) Mayya Channel - where you can get all the latest videos in Amharic, Afan Oromo, Tigrigna, and Arabic.",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/fana.jpg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/Fa4ZSvLCw0UJ.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/Fa4ZSvLCw0UJ_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/Fa4ZSvLCw0UJ_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/Fa4ZSvLCw0UJ_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/Fa4ZSvLCw0UJ_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/Fa4ZSvLCw0UJ_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/Fa4ZSvLCw0UJ_src/index.m3u8" 
+               }         
+            ]
+      },
+      {
+        "channel_name": "Balageru",
+        "channel_description" : "Balageru",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/balageru.png",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/balageru_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/balageru_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/balageru_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/balageru_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/balageru_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/balageru_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/balageru_1_src/index.m3u8" 
+               }         
+            ]
+      },
+      {
+        "channel_name": "Abbay TV",
+        "channel_description" : "Abbay TV is a News & Entertainment television station, based in Addis Abeba, Ethiopia. Abbay TV produces various types of Entertainment shows, Talk Shows, Competitions Shows, Game Shows, and Variety Shows. Abbay TV is located in Alfoz Plaza, Imperial, Addis Abeba, Ethiopia.",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/abay.jpg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/abbay_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/abbay_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/abbay_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/abbay_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/abbay_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/abbay_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/abbay_1_src/index.m3u8" 
+               }         
+            ]
+      },
+      {
+        "channel_name": "South TV",
+        "channel_description" : "South Radio and Television Agency is SNNPRS Ethiopia Government Owned media and Broadcasting service Company, which has 10 branch stations in the region.",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/debub.jpg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/south-tv_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/south-tv_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/south-tv_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/south-tv_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/south-tv_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/south-tv_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/south-tv_1_src/index.m3u8" 
+               }         
+            ]
+      },
+      {
+        "channel_name": "Fana National FM",
+        "channel_description" : "Fana National FM Radio Channel",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/fana.jpg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/KgwWSDGnFQcH.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/KgwWSDGnFQcH_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/KgwWSDGnFQcH_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/KgwWSDGnFQcH_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/KgwWSDGnFQcH_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/KgwWSDGnFQcH_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/KgwWSDGnFQcH_src/index.m3u8" 
+               }         
+            ]
+      },
+      {
+        "channel_name": "Fana FM 98.1",
+        "channel_description" : "Fana FM 98.1 radio channel",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/fana.jpg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/18tGepI8Am2u.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/18tGepI8Am2u_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/18tGepI8Am2u_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/18tGepI8Am2u_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/18tGepI8Am2u_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/18tGepI8Am2u_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/18tGepI8Am2u_src/index.m3u8" 
+               }         
+            ]
+      },
+      {
+        "channel_name": "Prime Media",
+        "channel_description" : "Prime Media is an East African regional media organization that aims to educate, entertain, inspire & empower people. Our goal is to be the voice of reason in the East African region",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/prime.jpeg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/prime-media_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/prime-media_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/prime-media_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/prime-media_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/prime-media_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/prime-media_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/prime-media_1_src/index.m3u8" 
+               }         
+            ]
+      },
+      {
+        "channel_name": "Asham TV",
+        "channel_description" : "Asham TV is a privately owned media company, based in Addis Ababa, Ethiopia, that provides news and programs.",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/asham.png",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/asham_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/asham_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/asham_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/asham_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/asham_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/asham_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/asham_1_src/index.m3u8" 
+               }         
+            ]
+      },
+      {
+        "channel_name": "Wolaita TV",
+        "channel_description" : "we strive for universal development!",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/wolaita.jpeg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/wolaita_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/wolaita_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/wolaita_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/wolaita_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/wolaita_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/wolaita_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/wolaita_1_src/index.m3u8" 
+               }         
+            ]
+      },
+      {
+        "channel_name": "ARTS TV",
+        "channel_description" : "ARTS TV",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/arts.jpg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/arts_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/arts_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/arts_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/arts_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/arts_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/arts_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/arts_1_src/index.m3u8"
+               }         
+            ]
+      },
+      {
+        "channel_name": "Walta TV",
+        "channel_description" : "Walta TV is an Ethiopian television network owned and operated by Walta Media and Communication Corporate S.C.",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/walta.jpg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/walta_1.m3u8" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/walta_1_144p/index.m3u8" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/walta_1_240p/index.m3u8" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/walta_1_360p/index.m3u8" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/walta_1_480p/index.m3u8" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/walta_1_720p/index.m3u8" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": "https://player.mayya.et/play/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/walta_1_src/index.m3u8"
+               }         
+            ]
+      },
+      {
+        "channel_name": "VOA TV Amharic",
+        "channel_description" : "Voice of America (VOA) is the largest U.S. international broadcaster, providing news and information in more than 40 languages to an estimated weekly audience of 236.8 million people. VOA produces content for digital, television, and radio platforms. It is easily accessed via your mobile phone and on social media. It is also distributed by satellite, cable, FM, and MW, and is carried on a network of approximately 3,000 affiliate stations. Since its creation in 1942, Voice of America has been committed to providing comprehensive coverage of the news and telling audiences the truth. Through World War II, the Cold War, the fight against global terrorism, and the struggle for freedom around the globe today, VOA exemplifies the principles of a free press.",
+        "channel_logo": "https://beamlakaschalew.github.io/ethiotv/res/assets/images/voa.jpeg",
+        "channel_stream": [
+          {
+            "video_quality": 0,
+            "stream_link": "" 
+           },
+            {
+                    "video_quality": 144,
+                    "stream_link": "" 
+            },
+            {
+                    "video_quality": 240,
+                    "stream_link": "" 
+                   },
+              {
+               "video_quality": 360,
+               "stream_link": "" 
+              },
+              {
+                "video_quality": 480,
+                "stream_link": "" 
+               },
+               {
+                "video_quality": 720,
+                "stream_link": "" 
+               },
+               {
+                "video_quality": 1080,
+                "stream_link": ""
+               }         
+            ]
+      }
+    ]
+  }
